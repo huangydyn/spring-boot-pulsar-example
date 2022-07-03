@@ -1,0 +1,4 @@
+pulsar:
+  service-url: pulsar://localhost:6650
+server:
+  port: 8081
