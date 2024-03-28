@@ -1,0 +1,7 @@
+pulsar:
+  service-url: pulsar://localhost:6650
+#  token-auth-value: "eyJrZXlJZCI6InB1bHNhci03azhlOWFtOW9iNTQiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJwdWxzYXItN2s4ZTlhbTlvYjU0X2h5X3VzZXIifQ.M6z_8CnztlGhbrs7hA8L_5hi8xs372qLS2YLl9dMG4o"
+#  namespace: hy_ns
+#  tenant: pulsar-7k8e9am9ob54
+server:
+  port: 8081
